@@ -1,4 +1,4 @@
-#twitter-bot #dataanalysis
+#twitter 
 
 Aqui um breve tutorial para a criação de um bot no twitter ou para coletar dados do mesmo.
 
